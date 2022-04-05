@@ -49,6 +49,8 @@ Todas as dependencias estão listadas no arquivo requirement.txt e podem ser bai
 
 :warning: [Django Rest Framework](https://www.django-rest-framework.org/topics/documenting-your-api/)
 
+:warning: [Django Filter](https://django-filter.readthedocs.io/en/stable/)
+
 :warning: [Django Rest Swagger](https://www.django-rest-framework.org/topics/documenting-your-api/)
 
 :warning: [PyYAML](https://pyyaml.org/wiki/PyYAMLDocumentation)
