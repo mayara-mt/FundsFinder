@@ -28,7 +28,9 @@
 
 ## Funcionalidades
 
-:heavy_check_mark: Listar todos os Fundo Imobiliario  
+:heavy_check_mark: Listar todos os Fundo Imobiliario 
+
+:heavy_check_mark: Pesquisar Fundo Imobiliario por código e/ou setor com opções de ordenação
 
 :heavy_check_mark: Pesquisar Fundo Imobiliario por ID  
 
