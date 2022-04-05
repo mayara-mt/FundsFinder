@@ -12,6 +12,8 @@ Class-based views
 Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
+
+path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
 """
 from django.contrib import admin
 from django.urls import path, include
@@ -20,7 +22,6 @@ from rest_framework.schemas import get_schema_view
 
 urlpatterns = [
     path('api/v1/', include('api.urls', namespace='api')),
-    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     path('api_schema/', get_schema_view(
         title='API Schema',
         description='Guide for the REST API'

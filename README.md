@@ -34,6 +34,8 @@
 
 :heavy_check_mark: Cadastrar novo Fundo Imobiliario
 
+:heavy_check_mark: Editar Fundo Imobiliario
+
 :heavy_check_mark: Remover Fundo Imobiliario por ID
 
 ## API
