@@ -40,7 +40,6 @@
 
 ## API
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
 ![](templates/swaggerFundsFinder.png)
 
 ## Pré-requisitos
